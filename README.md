@@ -16,4 +16,8 @@ This repository contains study materials for Midterm 1 of CSE 3901 at The Ohio S
 ### Link to Quizlet Flashcards: https://quizlet.com/990812224/cse-3901-material-part-1-flash-cards/?i=10omke&x=1jqt
 
 ### CSE 3901 Ruby Practice Prompts is a pdf of 9 prompts to practice coding in Ruby
-- The solutions to these answers can be found in CSE 3901 Ruby Practice Prompts Answer Key and in individual .rb files labeled "ProblemTwo.rb" and so on.
+- The solutions to these prompts can be found in the 'CSE 3901 Ruby Practice Prompts Answer Key' file and in individual .rb files labeled "ProblemTwo.rb" and so on.
+
+### CSE 3901 Practice Problems is a pdf of 33 questions to test your knowledge of the course material
+- The solutions to these questions can be found in the 'CSE 3901 Practice Problems Answer Key' file.
+  
