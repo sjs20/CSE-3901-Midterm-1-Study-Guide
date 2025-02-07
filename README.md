@@ -11,7 +11,7 @@ This repository contains study materials for Midterm 1 (Weeks 1-5) of CSE 3901 a
 8. Regular Expressions
 9. Networking Basics: IP, DNS, URL, MIME
 10. HTTP: Hypertext Transfer Protocol
-11. Web Apis
+11. Web APIs
 
 ### Link to Quizlet Flashcards: https://quizlet.com/990812224/cse-3901-material-part-1-flash-cards/?i=10omke&x=1jqt
 
